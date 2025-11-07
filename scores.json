@@ -1,0 +1,62 @@
+{
+  "10000001": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000002": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000003": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000004": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000005": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000006": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000007": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000008": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000009": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  },
+  "10000010": {
+    "original": {"soundness": 5, "importance": 5},
+    "removed": {"soundness": 4, "importance": 3},
+    "replaced": {"soundness": 2, "importance": 2},
+    "contradicted": {"soundness": 1, "importance": 1}
+  }
+}
